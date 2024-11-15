@@ -21,4 +21,4 @@ To run the project, you can follow these steps:
 
 ## Contact
 
-If you have any questions about the project, please contact the author at ABHINAV KUNDOJWAR | email id - abhinavkundojwar75@gmail.com
+If you have any questions about the project, please contact the author at ABHINAV KUNDOJWAR | email id - reach.abhkun@gmail.com
